@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Poppins";
+  src: "./fonts/Poppins/Poppins-Light.ttf";
+}
+* {
+  font-family: "Poppins", monospace;
+}
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  background-color: #648de5;
+}
